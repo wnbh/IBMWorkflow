@@ -1,8 +1,8 @@
 【更新】
 ## 由于IBM更改了使用政策，大部分使用v2fly应用程序的账户都被ban掉了，因此该项目不再更新
-[img]https://ftp.fly97.cn/image/20200911201543.png[/img]
+![](https://ftp.fly97.cn/image/20200911201543.png)
 
-[img]https://ftp.fly97.cn/image/20200911201816.png[/img]
+![](https://ftp.fly97.cn/image/20200911201816.png)
 
 本文简单介绍了Github Action的用法，并使用Gihub Action定时重启IBM cloud foundry容器。
 
